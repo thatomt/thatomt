@@ -8,10 +8,10 @@
 
 <p align="center">
 Name: Thato M <br>
-Role: Software Engineering 💻 <br>
+Role: Software Engineer 💻 <br>
 Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
-♟️ Chess 📷 / Photographer <br>
-📚 Status: Building skills every day / 🐍 Primary Language: Python, Java <br>
+♟️ Chess 📷  |  Photographer <br>
+📚 Status: Building skills every day | 🐍 Primary Language: Python, Java <br>
 🌱 Once focused on healing patients through nutrition, now building systems and solving problems through code💻 <br>
 
 </p>
@@ -37,9 +37,9 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 <h2 align="center"> 🧬 HEALTH TECH INTERESTS </h2>
 <p align="center">
 📂 Nutrition tracking systems<br>
-    Health data analysis<br>
-    Diet planning applications<br>
-    Digital healthcare solutions<br>
+📊  Health data analysis<br>
+📝  Diet planning applications<br>
+💡  Digital healthcare solutions<br>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -65,21 +65,23 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 <img src="https://komarev.com/ghpvc/?username=thatomt&label=Profile%20Views&color=00F0FF&style=flat"/>
 </p>
 
-<h2 align="center">📋 Connect & Collaborate</h2>
+<h2 align="center" style="color:#00F0FF; text-shadow: 0 0 10px #00F0FF;">📋 Connect & Collaborate</h2>
 
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/thatomt" alt="QR Code" width="120"/>
+<p align="center" style="border:2px solid #00F0FF; border-radius:15px; padding:15px; box-shadow: 0 0 15px #00F0FF;">
+<a href="mailto:thatomsekele@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
+</a>
+<a href="https://www.linkedin.com/in/thato-m-sekele-b32934231/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
+</a>
+<a href="https://github.com/thatomt" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
+</a>
+<a href="https://x.com/MT_Sekele" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="32"/>
+</a>
 </p>
 
 <p align="center">
-  <a href="mailto:thatomsekele@gmail.com" style="display: inline-block; background-color: #FF4444; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold; margin: 0 5px;">EMAIL</a>
-  <a href="https://www.linkedin.com/in/thato-m-sekele-b32934231/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
-  </a>
-  <a href="https://github.com/thatomt" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32"/>
-  </a>
-  <a href="https://x.com/MT_Sekele" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="32"/>
-  </a>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/thatomt" alt="QR Code" width="120"/>
 </p>
