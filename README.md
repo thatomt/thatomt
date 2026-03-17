@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=+HELLO+THATO+HERE;BUILDING+SKILLS+ONE+PROJECT+AT+A+TIME.">
 </p>
@@ -55,7 +56,6 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatomt&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
 
 ---
 
