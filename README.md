@@ -12,7 +12,7 @@ Name: Thato M <br>
 Role: Software Engineer 💻 <br>
 Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 ♟️ Chess 📷  |  Photographer <br>
-📚 Status: Building skills every day | 🐍 Primary Language: Python, Java <br>
+📚 Status: Building skills every day | 🐍 Primary Language: HTML, Python, Java <br>
 🌱 Once focused on healing patients through nutrition, now building systems and solving problems through code💻 <br>
 
 </p>
