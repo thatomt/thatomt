@@ -43,7 +43,7 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 💡  Digital healthcare solutions<br>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thatomt&show_icons=true&theme=tokyonight" height="170"/>
@@ -55,7 +55,7 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatomt&layout=compact&theme=tokyonight" height="170"/>
-</p>
+</p> -->
 
 ---
 
