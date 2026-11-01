@@ -1,19 +1,15 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=+HELLO,+THATO+HERE;BUILDING+SKILLS+ONE+PROJECT+AT+A+TIME.">
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF2DAA&height=170&section=header&text=Thato%20MT&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%7C%20Data%20Engineering%20%7C%20Analytics%20%7C%20Health%20Tech&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Neon cyan and pink profile banner"/>
 
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-Name: Thato M <br>
+Hi, I'm Thato <br>
 Role: Software Engineer 💻 <br>
 Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
-♟️ Chess 📷  |  Photographer <br>
-📚 Status: Building skills every day | 🐍 Primary Language: HTML, Python, Java <br>
-🌱 Once focused on healing patients through nutrition, now building systems and solving problems through code💻 <br>
+Once focused on healing patients through nutrition, now building systems and solving problems through code💻 <br>
 
 </p>
 
@@ -30,17 +26,23 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 <h2 align="center">⚡ Current Focus</h2>
 
 <p align="center">
-🌱 Improving programming skills<br>
-🧠 Strengthening problem solving
+ Improving programming skills<br>
+ Strengthening problem solving
 </p>
 
 ---
-<h2 align="center"> 🧬 HEALTH TECH INTERESTS </h2>
+<h2 align="center"> 🏆 Certifications </h2>
 <p align="center">
-📂 Nutrition tracking systems<br>
-📊  Health data analysis<br>
-📝  Diet planning applications<br>
-💡  Digital healthcare solutions<br>
+  Microsoft Certified: Fabric Data Engineer Associate (DP-700)<br>
+  Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)<br>
+
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=thatomt&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -68,6 +70,6 @@ Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/thatomt" alt="QR Code" width="120"/>
-</p>
+</p> -->
