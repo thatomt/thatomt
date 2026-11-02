@@ -10,7 +10,7 @@ Hi, I'm Thato <br>
 Role: Software Engineer 💻 <br>
 Background: 👨‍⚕️ Healthcare Professional (Dietitian 🍏) <br>
 Once focused on healing patients through nutrition, now building systems and solving problems through code💻 <br>
-
+Current Focus :  Improving programming skills | Strengthening problem solving <br>
 </p>
 
 ---
@@ -19,15 +19,6 @@ Once focused on healing patients through nutrition, now building systems and sol
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,gitlab,vscode,html,bash,linkedin,gmail,linux,windows" />
-</p>
-
----
-
-<h2 align="center">⚡ Current Focus</h2>
-
-<p align="center">
- Improving programming skills<br>
- Strengthening problem solving
 </p>
 
 ---
